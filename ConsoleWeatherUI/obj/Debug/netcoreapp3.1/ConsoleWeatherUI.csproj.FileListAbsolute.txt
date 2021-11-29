@@ -1,0 +1,16 @@
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/ConsoleWeatherUI.deps.json
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/ConsoleWeatherUI.runtimeconfig.json
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/ConsoleWeatherUI.runtimeconfig.dev.json
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/ConsoleWeatherUI.dll
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/ConsoleWeatherUI.pdb
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.csproj.CopyComplete
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.dll
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.pdb
+/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/Debug/netcoreapp3.1/ConsoleWeatherUI.genruntimeconfig.cache

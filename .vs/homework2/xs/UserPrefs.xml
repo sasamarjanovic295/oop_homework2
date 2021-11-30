@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6EA04E91-FB06-4261-8E5F-D0500AEA1BAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="weatherLibrary/WeeklyForecast.cs">
+    <Files>
+      <File FileName="weatherLibrary/DailyForecast.cs" Line="1" Column="1" />
+      <File FileName="weatherLibrary/WeeklyForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework2" expanded="True">
+            <Node name="ConsoleWeatherUI" expanded="True" />
+            <Node name="weatherLibrary" expanded="True">
+              <Node name="WeeklyForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleWeatherUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

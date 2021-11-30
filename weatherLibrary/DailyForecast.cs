@@ -23,14 +23,5 @@ namespace weatherLibrary
         {
             return (left.DayWeather.GetTemperature() < right.DayWeather.GetTemperature());
         }
-
-        public static bool operator >(double left, DailyForecast right)
-        {
-            return (left > right.DayWeather.GetTemperature());
-        }
-        public static bool operator <(double left, DailyForecast right)
-        {
-            return (left < right.DayWeather.GetTemperature());
-        }
     }
 }

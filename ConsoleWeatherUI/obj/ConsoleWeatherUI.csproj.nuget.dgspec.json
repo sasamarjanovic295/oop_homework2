@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj": {}
+    "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj": {}
   },
   "projects": {
-    "/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj": {
+    "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj",
+        "projectUniqueName": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj",
         "projectName": "ConsoleWeatherUI",
-        "projectPath": "/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj",
+        "projectPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/ConsoleWeatherUI/ConsoleWeatherUI.csproj",
         "packagesPath": "/Users/sasamarjanovic/.nuget/packages/",
-        "outputPath": "/Users/sasamarjanovic/Projects/homework2/ConsoleWeatherUI/obj/",
+        "outputPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/ConsoleWeatherUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sasamarjanovic/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj": {
-                "projectPath": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj"
+              "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj": {
+                "projectPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj": {
+    "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj",
+        "projectUniqueName": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj",
         "projectName": "weatherLibrary",
-        "projectPath": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj",
+        "projectPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj",
         "packagesPath": "/Users/sasamarjanovic/.nuget/packages/",
-        "outputPath": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/obj/",
+        "outputPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sasamarjanovic/.config/NuGet/NuGet.Config"

@@ -8,3 +8,13 @@
 /Users/sasamarjanovic/Projects/homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.CoreCompileInputs.cache
 /Users/sasamarjanovic/Projects/homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.dll
 /Users/sasamarjanovic/Projects/homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.deps.json
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfo.cs
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.pdb

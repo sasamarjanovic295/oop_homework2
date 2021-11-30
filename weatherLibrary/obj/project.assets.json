@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj",
+      "projectUniqueName": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj",
       "projectName": "weatherLibrary",
-      "projectPath": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj",
+      "projectPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj",
       "packagesPath": "/Users/sasamarjanovic/.nuget/packages/",
-      "outputPath": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/obj/",
+      "outputPath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sasamarjanovic/.config/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EKZrXH5FvqFMNPjGudvXCg7rkOPk3JwC3LVhBrLXfP/45VyLM7dmtU+OW5GmV3cpdMgeyoiRxkZM6TI1pYKixQ==",
+  "dgSpecHash": "1nxxPrzPGvj0Gms8TOGjGkGruhHDrveEgPBauoM13kP063dQxa3Mmpl6nTMgyWBSVoxziKHgpXOS5rdfguWPAQ==",
   "success": true,
-  "projectFilePath": "/Users/sasamarjanovic/Projects/homework2/weatherLibrary/weatherLibrary.csproj",
+  "projectFilePath": "/Users/sasamarjanovic/Documents/GitHub/oop_homework2/weatherLibrary/weatherLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -20,15 +20,15 @@ namespace weatherLibrary
         }
         public double GetMaxTemperature()
         {
-            double maxTemperature = 0;
+            DailyForecast dailyForcastWithMaxTemperature = dailyForecasts[0];
             foreach (DailyForecast dailyForecast in dailyForecasts)
             {
-                if (maxTemperature < dailyForecast)
+                if (dailyForcastWithMaxTemperature < dailyForecast)
                 {
-                    maxTemperature = dailyForecast.DayWeather.GetTemperature();
+                    dailyForcastWithMaxTemperature= dailyForecast;
                 }
             }
-            return maxTemperature;
+            return dailyForcastWithMaxTemperature.DayWeather.GetTemperature();
         }
         public DailyForecast this[int i]
         {

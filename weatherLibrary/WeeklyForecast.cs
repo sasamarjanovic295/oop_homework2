@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace weatherLibrary
 {
@@ -11,12 +12,12 @@ namespace weatherLibrary
         }
         public string GetAsString()
         {
-            string weeklyForecast = "";
+            StringBuilder builder  = new StringBuilder();
             foreach (DailyForecast dailyForecast in dailyForecasts)
             {
-                 weeklyForecast += dailyForecast.GetAsString() + "\n";
+                builder.Append(dailyForecast.GetAsString()+"\n");
             }
-            return weeklyForecast;
+            return builder.ToString();
         }
         public double GetMaxTemperature()
         {
